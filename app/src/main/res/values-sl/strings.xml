@@ -499,7 +499,7 @@
     <!-- Fireproof websites -->
     <string name="fireproofWebsitesActivityTitle">Spletne strani s požarno zaščito</string>
     <string name="settingsFireproofWebsites">Spletne strani s požarno zaščito</string>
-    <string name="fireproofWebsiteMenuTitleAdd">Ta stran je požarno zaščitena</string>
+    <string name="fireproofWebsiteMenuTitleAdd">Požarno zaščiti to stran</string>
     <string name="fireproofWebsiteSnackbarConfirmation" instruction="Placeholder is a website">&lt;b&gt;%1$s&lt;/b&gt; ima odslej požarno zaščito</string>
     <string name="fireproofWebsiteSnackbarAction">Prekliči spremembe</string>
     <string name="fireproofWebsiteDeleteConfirmMessage" instruction="Placeholder is a website">Si prepričan, da želiš izbrisati &lt;b&gt;%1$s&lt;/b&gt;?</string>
